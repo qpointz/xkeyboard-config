@@ -5607,7 +5607,17 @@
             <shortDescription>de</shortDescription>
             <description>German (Switzerland, Macintosh)</description>
           </configItem>
-        </variant>
+   	</variant>
+	<variant>
+          <configItem>
+            <name>ru</name>
+            <shortDescription>ru</shortDescription>
+            <description>Russian (Switzerland, phonetic)</description>
+            <languageList>
+              <iso639Id>rus</iso639Id>
+            </languageList>
+          </configItem>
+	</variant>
       </variantList>
     </layout>
     <layout>
